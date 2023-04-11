@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1681220894 source:d:\code blocks - cpp projects\stack\main.cpp
+	<iostream>
+	"Stack.H"
+
+1681220840 d:\code blocks - cpp projects\stack\stack.h
+	"Node.H"
+
+1681079605 d:\code blocks - cpp projects\stack\node.h
+	<bits/stdc++.h>
+
+1681081504 source:d:\code blocks - cpp projects\stack\node.cpp
+	"Node.H"
+
+1681220844 source:d:\code blocks - cpp projects\stack\stack.cpp
+	"Stack.H"
+
